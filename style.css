@@ -1,0 +1,12 @@
+.col-md-6 img {
+  border-radius: 20px;
+}
+.col-md-6 {
+  background-color: lavenderblush;
+  border-radius: 20px;
+}
+.col-md-5 {
+  border-radius: 25px;
+  background-color: lavenderblush;
+  margin-left: 25px;
+}
